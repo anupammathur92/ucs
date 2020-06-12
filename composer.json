@@ -1,0 +1,18 @@
+{
+    "name": "anupam/ucs",
+    "description": "user control system",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "anupammathur92",
+            "email": "er.anupam.mathur@gmail.com"
+        }
+    ],
+    "version": "1.0.0",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"anupam\\ucs\\": "src/"}
+    },
+    "require": {}
+}
